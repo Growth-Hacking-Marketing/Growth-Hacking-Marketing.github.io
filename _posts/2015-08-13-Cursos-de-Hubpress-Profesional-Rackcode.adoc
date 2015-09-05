@@ -1,5 +1,5 @@
-= Cursos de  Hubpress Profesional
-
+= Cursos de  Hubpress Profesional - Rackcode
+:hp-image: http://www.reilleydesignstudio.com/wp-content/uploads/Steven-Brien-Web-Developer.jpg
 
 :uri-rackcode: http://rackcode.info
 
@@ -13,5 +13,8 @@ La plataforma de {uri-rackcode}[Rackcode]
 Hubpress - Curso Profesional de Github con Hubpress
     
 Este sin duda es un proyecto que nos a llamado mucho la atencion y que no vamos a perder de vista. Si quieres saber mas de Hubpress entra ya al curso de Profesional de Github con Hubpress.
+
+
+Para mas entra a {uri-rackcode}[Rackcode]
 
 
