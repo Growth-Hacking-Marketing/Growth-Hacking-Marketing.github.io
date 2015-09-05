@@ -1,0 +1,19 @@
+= Hola Mundo
+:hp-image: http://iamevan.me/wp-content/uploads/2014/04/DeathtoStock_Desk7.jpg
+
+
+# Rackcode by @Huixcospartan
+
+=== ¿Que es Rackcode?
+ Rackcode es es una iniciativa para crear una plataforma de educación online. Creando contenido para el desarrollo de técnicas profesional de la industria de TI con Guías, Practicas, Tutoriales elaborados por estudiantes de la plataforma con temas de Tecnología, Programación, Diseño Web, Desarrollo Movil, Linux y las todas las nuevas tendencias tecnológicas
+
+Rackcode surge del problema que tienen la mayoria de los egresados de las carreras de Tecnología que al finalizar sus estudios no pueden conseguir un empleo en esta industria debido a que lo que aprendieron durante su carrera es obsoleto y necesitan aprender lo que actualmente se utiliza, cosa que no es facil debido a que hay plataformas de educación como Platzi, DevCode.la, Oja.la y Video2brain que a pesar de tener contenido muy diverso requieren de una inversión alta para poder aprender en un corto tiempo (1 mes o 3 meses).
+
+
+Rackcode propone la idea de conviértete en un experto y aprendiendo a tu ritmo diseño, desarrollo y marketing de una forma clara y sencilla con clases online disponibles las 24 horas del día.
+Repositorio Oficial - https://github.com/Rackcode 
+
+Aunque aun estamos en proceso de sacar un MVP de Rackcode comenzamos con este blog para compartir con ustedes Tutoriales y Artículos que te permitirán estar al tanto del mundo de la Tecnologías de la Información. 
+
+    Muy pronto estaremos sacando nuestra plataforma denominada Rackcode. Esperando que sea de su agrado y puedan seguirnos en @Huixcospartan SEO y Founder de Rackcode y en @Rackcode la plataforma de educacion online.
+
