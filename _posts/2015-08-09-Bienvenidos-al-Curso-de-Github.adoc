@@ -1,5 +1,5 @@
 = Bienvenidos al Curso de Github 
-:hp-image: https://www.facebook.com/Rackcode.Oficial/photos/a.749139868526527.1073741827.749135838526930/845532878887225/?type=1&theater
+
 
 
 Github, respaldar un proyecto, respaldar mi codigo,
