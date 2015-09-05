@@ -16,5 +16,4 @@ Repositorio Oficial - https://github.com/Rackcode
 
 Aunque aun estamos en proceso de sacar un MVP de Rackcode comenzamos con este blog para compartir con ustedes Tutoriales y Artículos que te permitirán estar al tanto del mundo de la Tecnologías de la Información. 
 
-    Muy pronto estaremos sacando nuestra plataforma denominada Rackcode. Esperando que sea de su agrado y puedan seguirnos en @Huixcospartan SEO y Founder de Rackcode y en @Rackcode la plataforma de educacion online.
-
+ Muy pronto estaremos sacando nuestra plataforma denominada Rackcode. Esperando que sea de su agrado y puedan seguirnos en @Huixcospartan SEO y Founder de Rackcode y en @Rackcode la plataforma de educacion online.
