@@ -4,7 +4,7 @@
 :uri-rackcode: http://rackcode.info
 
 
-== http://rackcode.info[Rackcode la Plataofrma de Educacion] 
+== http://rackcode.info[Rackcode la Plataforma de Educacion] 
 
 image::https://avatars2.githubusercontent.com/u/7098255?v=3&s=460[SEO y Founder de Rackcode, 225,150, role=right]
 
