@@ -1,0 +1,59 @@
+= Introduccion al Community Manager - Rack code
+
+Al principio cuando me introducia al mundo del Marketing Online pensaba que los community manager se encargaban de la gestion de los perfiles de Facebook y Twitter de las empresas, pero en realidad nada que ver con lo que hacen realmente.
+
+Comencemos en materia 
+
+== ¿Puedo ser Community Manager si se manejar correctamente Facebook?
+
+Es un poco frecuente esta pregunta esto se debe a que la mayoria de la gente piensa que el Social media es todo en lo que consiste pero como anteriormente ya lo habia recalcado nada que ver con lo que en realidad es.
+
+Es claro que las herramientas sociales como facebook es importante para hacer Community Manager pero se debe de entender que todas las redes sociales funcionan de maneras distintas, por lo que la normativa, lenguaje asi como la lectura e interpretacion para los lectores o publico varian considerablemente  por lo que hay que dominar y dedicarse de lleno a esta profesion. 
+
+== ¿Por que herramientas debo comenzar?
+
+Para un Community Manager hay una inmensa cantidad de herramientas, software, sitios que se pueden utilizar pero estas son algunas para comenzar.
+
+++++
+
+<ol>
+	<li>
+    	<h4>Redes Sociales</h4>
+        <p> Como lo habiamos dicho al antes hay un gran numero de redes sociales, pero no es necesario que domines todas, sino usa las que sean mas ligadas a la empresa, persona o producto. Por ejemplo si eres un fotografo y estas interesado en compartir tu trabajo Pinterest, Instagram y Linkedin seria alguas de las primeras opciones.     </p>
+    </li>
+    <li>
+    	<h4>Webs y Apps</h4>
+        <p>Es importante que busques herramientas a tu alcance que faciliten tu trabajo, tener informacion de los usuarios como pais, edad, genero son datos que pueden ayudar a crear contenido para esas audiencias. Yo recomiendo que uses bitly.com en tus enlaces con esto podras conseguir la informacion estadistica de quieres ven tus publicaciones, ahora que si quieres optimizar trabajo puedes hacer uso de hootsuite para programar las publicaciones en redes sociales.</p>
+    </li>
+    <li>
+    	<h4>Blogs</h4>
+        <p>El Community Manager esta siempre con nuevas opciones, por eso siempre es importante estar informado, en internet hay miles de blogs que se encargan de cubrir este tema. Uno de ellos es <a href="http://rackcode.info"> Rackcode</a> donde publicamos de temas en general.</p>
+    </li>
+    <li>
+    	<h4>Libros e Ebooks</h4>
+        <p>Aunque resulta muy bien aprender de las experiencias de la comunidad de internet los libros son otro maravilloso recurso que no podria faltar. Hay muchos gratuitos en la web y algunos de pago que valen la pena leer. Aqui en  <a href="http://growth-hacking-marketing.github.io"> Growth Hacking - Rackcode</a> encontraras algunos gratuitos y algunos de pago que valen la pena leeer. </p>
+    </li>
+    <li>
+    	<h4>Idioma</h4>
+        <p>Esta es una de las mas importantes para los Community Manager por la basta cantidad de informacion en internet.</p>
+    </li>
+</ol>
+
+
+++++
+
+
+
+image::http://2.bp.blogspot.com/-B84jfNLgCEc/Vb_ER4XGDsI/AAAAAAAAAuI/rqunQvJJ0Uo/s640/Adblock.png[]
+
+==== We also have Facebook groups where experts from around the world share in our blog content Frontend, Backend Server Management and Entrepreneurship Startups and I invite you to join.
+
+Comunidad Rackcode - https://www.facebook.com/groups/rackcode
+
+Cominidad de Emprendimiento y Startups - https://www.facebook.com/groups/comunidad.startups.emprendimiento.rackcode/
+
+Comunidad de SysAdmin - https://www.facebook.com/groups/comunidad.sysadmin.rackcode/
+
+Comunidad de Backend - https://www.facebook.com/groups/Comunidad.Backend.Rackcode/
+
+Comunidad de Frontend - https://www.facebook.com/groups/Comunidad.Frontend.Rackcode/  
