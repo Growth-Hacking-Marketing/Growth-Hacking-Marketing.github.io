@@ -1,0 +1,47 @@
+= ¿Qué tipo de campañas de email existen? | Email Marketing
+:hp-image: http://www.expotecnologiadenegocios.com.mx/wp-content/uploads/2015/08/emaiol-marketing.jpg
+:hp-tags: Email Marketing, Email, Campañas de Email
+
+== Email Marketing - Tipos de Campañas 
+
+Existen diferentes tipos de emails y elegir cual es la que debemos de utilizar para nuestras campañas es lo que aprenderas en esta ocasion asi que comencemos.
+
+image::http://jorgetorresculla.com/wp-content/uploads/2015/01/Email-Marketing.jpg[]
+=== Activación
+
+Este tipo de email sirven para activar a tus usuarios valga la redundancia.Se busca la primera interacción que el usuario y nuestro producto o servicio. Un ejemplo los Emails de Bienvenida que nos envia Facebook cuando nos registramos.
+
+image::http://www.agenciacreativa.net/fotos-noticias/10-razones-para-usar-email-marketing-en-tu-ecommerce.jpg[]
+=== Suscripción
+
+Los emails de suscripcion consisten en contruir una relacion entre nuestro producto y los usuarios de tal forma que mantienen informado y animan a los mismos a utilizar nuestro producto. Un ejemplo cuando nos suscribimos a un blog o “Newsletter” recibiremos notificaciones de articulos publicados o informacion relevante para nosotros.
+
+image::http://www.soloago.com/wordpress/corporate/wp-content/uploads/sites/22/2015/08/email-marketing-silder.jpg[]
+=== Promoción
+
+Los emails de Promoción ayudan al incremento de las ventas, buscar recordar los beneficios y funciones del producto que tenemos. 
+
+image::http://hospitalitytimes.ie/wp-content/uploads/2014/06/lead-strategy-with-email-marketing.jpg[]
+
+
+=== Transacción
+
+Los emails de Transacción consisten en envía a un usuario un email para que realicen una acción esperada. Un ejemplo cuando nos registramos en facebook nos envian un correo para confirmar nuestro correo. 
+
+image::https://ciudademedellin.files.wordpress.com/2011/08/emailmarketing.jpg[]
+
+=== Comportamiento
+
+Emails de Comportamiento estos se envian para determinar el grado de interaccion o no interaccion de nuestros usuarios frente a nuestro producto comun para personalizar o segmentar las campañas.
+
+Este tipo de emails ya que necesitas analizar el comportamiento de tus usuarios con tu producto y resulta un poco mas avanzado
+
+image::http://www.techiestuffs.com/wp-content/uploads/2015/03/bigstock-Set-of-flat-design-concept-ico-59456957-copy.jpg[]
+
+
+Por ultimo terminamos con la frase de 
+
+==== Enviar el mensaje correcto, al usuario correcto, en el momento correcto
+
+ Muchas gracias
+
