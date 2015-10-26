@@ -1,0 +1,83 @@
+= Curso de Email Marketing de Rackcode | Introducción 
+:hp-image: http://www.artefactoweb.com.mx/wp-content/uploads/2015/02/Email-Marketing.jpg
+:hp-tags: Email, Marketing, Rackcode, Curso, Email Marketing Tools
+
+= Curso de Email Marketing de Rackcode | Introducción 
+
+Bienvenidos a la introducción del curso de Email Marketing de Rackcode
+
+En este curso hablaremos acerca de Email Marketing  uno de los canales de mercado mas usados por su efectividad, aunque han aparecido nuevos canales de mercadeo digital como son la publicidad en redes sociales o mensajes de texto en los móviles, el email marketing sigue siendo uno de los mas efectivos.
+
+El objetivos que se buscan con el email marketing: son atraer usuarios, lograr interacciones con productos y servicios, hacer crecer conversiones, generar ventas directas y lo mas importante ganar la confianza de los usuarios.
+
+
+En este curso trataremos el proceso que se lleva acabo pero que explicaremos rápidamente en este momento.
+
+image::http://oinkmygod.com/wp-content/uploads/2015/05/El-Email-Marketing_infografia.png[]
+
+En  este curso veremos como utilizar herramientas de Email Marketing por lo que daremos una brebe introduccion a cada unoa de ellas.
+
+
+=== Campaign Monitor | Email Marketing Tool
+
+Campaign Monitor es de las la plataforma más sofisticadas para email marketing.
+
+Esta plataforma permite el envió de campañas a diversas listas, envíos de correo masivos así como medición en tiempo real que te proporciona ubicaciones y correos que han sido abiertos y los clics realizados.
+
+Cuenta con 3 planes básico, Limitado y Premium  cada uno con variantes e incluso podemos acceder a una prueba de este servicio gratuitamente.
+
+Es claro que esta herramienta es ideal si manejas grandes cantidades de email, o también si tienes a tus usuarios segmentados. 
+
+Campaign Monitor es la mejor opción si requieres de un analizis profundo de cada campaña, ademas puedes llevar campañas de varios clientes.
+
+Esta herramienta es perfecta para grandes empresas y agencias de marketing
+
+=== Mailchimp | Email Marketing Tool
+
+Mailchimp es una de las plataformas de email marketing mas conocidas y utilizadas por las empresas. Esta plataforma es ideal si no requieres de una segmentación muy precisa de tu publico. 
+
+Su usu es sencillo e intuitivo, esta plataforma te brinda las herramientas para poder crear fácilmente formularios, administrar listas asi como prepara campañas. 
+
+Cuenta con 3 planes Starting Up, Growing Business y Pro Marketer, de las cuales Starting Up es totalmente gratuita con una limitante de 2000 suscriptores y un limite de 12000 correos, excelente solución para pequeñas empresas.
+
+
+Ademas brinda informes de envío, asi como análisis de fidelizacion de usuario, horas de apertura que son muy completos.
+
+Sin duda Mailchimp es una de las plataformas de email marketing mas utilizadas y conocidas del mercado. 
+
+
+image::http://cdn.business2community.com/wp-content/uploads/2015/07/email-puc-300x157.jpg.jpg[]
+
+=== GetResponse | Email Marketing Tool
+
+GetResponse es la plataforma de Email Marketing la cual permite crear una listas de clientes potenciales y socios .
+
+Cuenta con diferentes planes que se ajustan de acuerdo a la cantidad de suscriptores. 
+
+GetResponse cuenta con las funciones necesarias para crear campañas efectivas de email de las cuales son editor para crear formularios, newsletters, un administrador de listas, herramientas para social media y herramientas de segmentación y estadísticas.
+
+=== Mad Mimi | Email Marketing Tool
+
+Mad Mimi esta plataforma de email marketing se actualiza con frecuencia tanto su aspecto de interfaz como la integración de sus complementos. 
+
+Cuenta con 4 planes Basico de 10 USD al mes Pro de 42, Silver de 199 y Gold de 1049. Esta plataforma ofrece características de diseño que hacen fácil crear correos electrónicos, es facil de aprender su uso.
+
+Asi como herramientas para diseño simplificado, insertar botones de redes sociales, asi como opciones de compartir, retweets, etc. Ademas cuenta con herramientas de corrreo masivo asi como 21 opciones adicionales para crear formularios, registros, y campañas.
+
+No me queda mas que decir que este servicio de email marketing es muy util y facil de usar.
+
+
+
+=== Sengrid | Email Marketing Tool
+
+SendGrid esta herramienta de email marketing que es muy util y benéfico, cabe destacar que SendGrid es considerando una de las principales plataformas de SAAS o Software as a Service en email marketing . 
+
+Cuenta con 5 planes Esencial, Pro, Premium asi como una versión gratuita y la version Lite, cada plan cubre un limite envio de correos al mes.
+
+Sengrid cuenta con herramientas muy utiles entre ellas estan las listas de segmentacion, editores de plantillas, Encuestas, Auto respuesta, Image Hosting, RSS, Pruebas AB, Integracion con Google Analytics asi como Reportes por decir algunas de estas caracteristicas,
+
+
+Sengrid no es recomendado si no se cuenta con un gran numero de suscriptores puesto que requiere de un presupuesto considerable pero si es su caso esta es la mejor opcion. 
+
+
+ Por ultimo queremos mostrarles algunas herramientas para email marketing que veremos en este curso, si conocen alguna otra herramienta comenten abajo para poder añadirla a este curso.
