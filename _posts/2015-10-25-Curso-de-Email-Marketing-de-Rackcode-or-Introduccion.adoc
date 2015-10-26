@@ -15,8 +15,10 @@ En este curso trataremos el proceso que se lleva acabo pero que explicaremos rá
 
 image::http://oinkmygod.com/wp-content/uploads/2015/05/El-Email-Marketing_infografia.png[]
 
-En  este curso veremos como utilizar herramientas de Email Marketing por lo que daremos una brebe introduccion a cada unoa de ellas.
+En  este curso veremos como utilizar herramientas de Email Marketing por lo que daremos una brebe introduccion a cada uno de ellas.
 
+
+image:http://static1.squarespace.com/static/50a3bec7e4b01d89010fbbcc/t/54b1b093e4b0ac5b7ac9267d/1420931222363/Campaign+Monitor[]
 
 === Campaign Monitor | Email Marketing Tool
 
@@ -32,6 +34,8 @@ Campaign Monitor es la mejor opción si requieres de un analizis profundo de cad
 
 Esta herramienta es perfecta para grandes empresas y agencias de marketing
 
+image::http://alfonsopuig.es/wp-content/uploads/2014/09/mailchimp.png[]
+
 === Mailchimp | Email Marketing Tool
 
 Mailchimp es una de las plataformas de email marketing mas conocidas y utilizadas por las empresas. Esta plataforma es ideal si no requieres de una segmentación muy precisa de tu publico. 
@@ -46,7 +50,7 @@ Ademas brinda informes de envío, asi como análisis de fidelizacion de usuario,
 Sin duda Mailchimp es una de las plataformas de email marketing mas utilizadas y conocidas del mercado. 
 
 
-image::http://cdn.business2community.com/wp-content/uploads/2015/07/email-puc-300x157.jpg.jpg[]
+image::http://www.qdtricks.org/wp-content/uploads/2015/08/getresponse-autoresponder.jpg[]
 
 === GetResponse | Email Marketing Tool
 
@@ -55,6 +59,8 @@ GetResponse es la plataforma de Email Marketing la cual permite crear una listas
 Cuenta con diferentes planes que se ajustan de acuerdo a la cantidad de suscriptores. 
 
 GetResponse cuenta con las funciones necesarias para crear campañas efectivas de email de las cuales son editor para crear formularios, newsletters, un administrador de listas, herramientas para social media y herramientas de segmentación y estadísticas.
+
+image::http://www.onlinemediamaven.com/wp-content/uploads/MadMimi-website.jpg[]
 
 === Mad Mimi | Email Marketing Tool
 
@@ -67,6 +73,7 @@ Asi como herramientas para diseño simplificado, insertar botones de redes socia
 No me queda mas que decir que este servicio de email marketing es muy util y facil de usar.
 
 
+image::http://butyoureagirl.com/wp-content/uploads/2012/03/sendgrid-homepage-screenshot.png[]
 
 === Sengrid | Email Marketing Tool
 
@@ -80,4 +87,4 @@ Sengrid cuenta con herramientas muy utiles entre ellas estan las listas de segme
 Sengrid no es recomendado si no se cuenta con un gran numero de suscriptores puesto que requiere de un presupuesto considerable pero si es su caso esta es la mejor opcion. 
 
 
- Por ultimo queremos mostrarles algunas herramientas para email marketing que veremos en este curso, si conocen alguna otra herramienta comenten abajo para poder añadirla a este curso.
+==== Por ultimo queremos mostrarles algunas herramientas para email marketing que veremos en este curso, si conocen alguna otra herramienta comenten abajo para poder añadirla a este curso.
